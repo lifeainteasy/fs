@@ -5,7 +5,8 @@
 
 
             "emotionSum":"10",
-            "comment":"14"
+            "comment":"14",
+            "id":"1"
         },
         "user":{
             "nickname":"고니",
@@ -17,7 +18,9 @@
         "post":{
             "content":"맷돌 손잡이가 뭔지 알아요? 어이라고 해요. 맷돌을 돌리다가 손잡이가 빠져 그럼 일을 못하죠? 그걸 어이가 없어 해야할 일을 못한다는 뜻으로 어이가 없다 라고 하는거에요. 내가 지금 그래 어이가 없네 ?",
             "emotionSum":"5",
-            "comment":"13"
+            "comment":"13",
+            "id":"2"
+
         },
         "user":{
             "nickname":"조태오",
@@ -28,7 +31,8 @@
         "post":{
             "content":"야 우리가 돈이 없지 가오가 없어? 가오 떨어지는 짓 좀 하지 말자",
             "emotionSum":"1",
-            "comment":"140"
+            "comment":"140",
+            "id":"3"
         },
         "user":{
             "nickname":"서도철",
@@ -40,7 +44,8 @@
         "post":{
             "content":"내 손에 죽기 전에 인간들이 제일 많이 하는 말이 뭔지 아나. 이럴 필요까지 없지 않느냐는 말이야",
             "emotionSum":"110",
-            "comment":"14"
+            "comment":"14",
+            "id":"3"
         },
         "user":{
             "nickname":"레이",
@@ -52,7 +57,8 @@
         "post":{
             "content":"해야할 일을 하세요, 모든 것은 타인의 행복을 위해 동시에 나의 행복을 위해서요!",
             "emotionSum":"40",
-            "comment":"1400"
+            "comment":"1400",
+            "id":"4"
         },
         "user":{
             "nickname":"디콘그버솔",
@@ -64,7 +70,8 @@
         "post":{
             "content":"그냥 말로 설명해도되",
             "emotionSum":"10",
-            "comment":"14"
+            "comment":"14",
+            "id":"5"
         },
         "user":{
             "nickname":"서인석",
@@ -76,7 +83,8 @@
         "post":{
             "content":"밥은 먹고 다니냐?",
             "emotionSum":"103",
-            "comment":"14"
+            "comment":"14",
+            "id":"6"
         },
         "user":{
             "nickname":"박두만",
@@ -88,7 +96,8 @@
         "post":{
             "content":"타노스 ㅈㄴ 쌔네 우리팀 뭐하냐",
             "emotionSum":"999999+",
-            "comment":"999999+"
+            "comment":"999999+",
+            "id":"7"
         },
         "user":{
             "nickname":"Iron Man",
@@ -100,7 +109,8 @@
         "post":{
             "content":"나는 인류를 사랑해",
             "emotionSum":"9999",
-            "comment":"14"
+            "comment":"14",
+            "id":"8"
         },
         "user":{
             "nickname":"귀찮다",
@@ -112,7 +122,8 @@
         "post":{
             "content":"우연히 본 테스트 이게 나의 인생의 시발점이었다.",
             "emotionSum":"10",
-            "comment":"14"
+            "comment":"14",
+            "id":"9"
         },
         "user":{
             "nickname":"John",
@@ -124,7 +135,8 @@
         "post":{
             "content":"지금 내 기분이 그래, 어이가 없네?",
             "emotionSum":"110",
-            "comment":"14"
+            "comment":"14",
+            "id":"10"
         },
         "user":{
             "nickname":"조오",
